@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "limits.h": "c",
+    "FirstRepeatinglOWERCASE.C": "cpp",
+    "RepeatingLowercase.C": "cpp",
+    "RepeatinLowercase.C": "cpp",
+    "Lowercase.C": "cpp"
+  }
+}
