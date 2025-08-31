@@ -1,4 +1,6 @@
 // Write a program to display the month name and number of days using switch-case for a given month number.
+//Name: Vatsal Agarwal
+//SAP ID: 590023223 
 
 #include <stdio.h>
 int main()
