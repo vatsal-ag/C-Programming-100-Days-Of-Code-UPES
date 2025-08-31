@@ -1,4 +1,6 @@
 // Write a program to find profit or loss percentage given cost price and selling price.
+//Name: Vatsal Agarwal
+//SAP ID: 590023223 
 
 #include <stdio.h>e
 int main()
