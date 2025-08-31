@@ -1,4 +1,6 @@
 // Write a program to input three numbers and find the largest among them using if–else.
+//Name: Vatsal Agarwal
+//SAP ID: 590023223 
 
 #include <stdio.h>
 int main()
