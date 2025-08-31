@@ -1,4 +1,6 @@
 // Write a program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.
+//Name: Vatsal Agarwal
+//SAP ID: 590023223 
 
 #include <stdio.h>
 int main()
