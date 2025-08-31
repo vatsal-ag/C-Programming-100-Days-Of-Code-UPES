@@ -1,4 +1,4 @@
-//Q2: Write a program to input two numbers and display their sum, difference, product, and quotient.
+//Write a program to input two numbers and display their sum, difference, product, and quotient.
 //Name: Vatsal Agarwal
 //SAP ID: 590023223 
 
