@@ -1,4 +1,6 @@
 // Write a program to assign grades based on a percentage input.
+//Name: Vatsal Agarwal
+//SAP ID: 590023223 
 
 #include <stdio.h>
 int main()
