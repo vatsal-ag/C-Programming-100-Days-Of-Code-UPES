@@ -1,4 +1,4 @@
-#C-Programming-100-Days-Of-Code-UPES
+C-Programming-100-Days-Of-Code-UPES
 
 This repository contains my solutions for the #100DaysOfCode challenge, organized as part of my course assignment at UPES. 
 
